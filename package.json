@@ -1,0 +1,12 @@
+{
+  "name": "work_node",
+  "version": "1.0.0",
+  "description": "강좌",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
